@@ -1,0 +1,2 @@
+01234567899;ABC1234;Luiz Arthur;31986461657;Avenida Amazonas;1000;Centro;30180001
+99999999999;HIJ6789; João da Silva;31999999999;Avenida do Contorno;3000;Santa Efigênia;30110014;

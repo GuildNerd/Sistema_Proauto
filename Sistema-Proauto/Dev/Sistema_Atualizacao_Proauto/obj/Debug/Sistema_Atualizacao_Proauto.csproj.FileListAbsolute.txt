@@ -1,0 +1,13 @@
+C:\Users\Luiz Arthur\source\repos\Sistema_Atualizacao_Proauto\Sistema_Atualizacao_Proauto\bin\Debug\Sistema_Atualizacao_Proauto.exe.config
+C:\Users\Luiz Arthur\source\repos\Sistema_Atualizacao_Proauto\Sistema_Atualizacao_Proauto\bin\Debug\Sistema_Atualizacao_Proauto.exe
+C:\Users\Luiz Arthur\source\repos\Sistema_Atualizacao_Proauto\Sistema_Atualizacao_Proauto\bin\Debug\Sistema_Atualizacao_Proauto.pdb
+C:\Users\Luiz Arthur\source\repos\Sistema_Atualizacao_Proauto\Sistema_Atualizacao_Proauto\obj\Debug\Sistema_Atualizacao_Proauto.csproj.AssemblyReference.cache
+C:\Users\Luiz Arthur\source\repos\Sistema_Atualizacao_Proauto\Sistema_Atualizacao_Proauto\obj\Debug\Sistema_Atualizacao_Proauto.csproj.SuggestedBindingRedirects.cache
+C:\Users\Luiz Arthur\source\repos\Sistema_Atualizacao_Proauto\Sistema_Atualizacao_Proauto\obj\Debug\Sistema_Atualizacao_Proauto.Form1.resources
+C:\Users\Luiz Arthur\source\repos\Sistema_Atualizacao_Proauto\Sistema_Atualizacao_Proauto\obj\Debug\Sistema_Atualizacao_Proauto.Properties.Resources.resources
+C:\Users\Luiz Arthur\source\repos\Sistema_Atualizacao_Proauto\Sistema_Atualizacao_Proauto\obj\Debug\Sistema_Atualizacao_Proauto.csproj.GenerateResource.cache
+C:\Users\Luiz Arthur\source\repos\Sistema_Atualizacao_Proauto\Sistema_Atualizacao_Proauto\obj\Debug\Sistema_Atualizacao_Proauto.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Arthur\source\repos\Sistema_Atualizacao_Proauto\Sistema_Atualizacao_Proauto\obj\Debug\Sistema_Atualizacao_Proauto.exe
+C:\Users\Luiz Arthur\source\repos\Sistema_Atualizacao_Proauto\Sistema_Atualizacao_Proauto\obj\Debug\Sistema_Atualizacao_Proauto.pdb
+C:\Users\Luiz Arthur\source\repos\Sistema_Atualizacao_Proauto\Sistema_Atualizacao_Proauto\obj\Debug\Sistema_Atualizacao_Proauto.DadosCliente.resources
+C:\Users\Luiz Arthur\source\repos\Sistema_Atualizacao_Proauto\Sistema_Atualizacao_Proauto\obj\Debug\Sistema_Atualizacao_Proauto.EdicaoEndereco.resources
