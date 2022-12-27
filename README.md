@@ -10,6 +10,4 @@ Ao desenvolver o software, procurei utilizar conceitos de programação orientad
 
 São 3 telas, a 1ª responsável pela autenticação de usuário (login), a 2ª com uma listagem dos dados do usuário e a 3ª responsável pela alteração dos dados de endereço do usuário.
 
-Em caso de dúvida, entrar em contato pelo e-mail: luizarthur.lp@gmail.com ou por Whatsapp: (31)9-8646-1657.
-
-Agradeço a oportunidade do processo seletivo e digo que gostaria muito de trabalhar na Proauto gerando valor para os clientes e crescendo junto com meus colegas de trabalho. Espero ser aceito no processo. Obrigado.
+Em caso de dúvida, entrar em contato pelo e-mail: luizarthur.lp@gmail.com
